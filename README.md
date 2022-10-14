@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp2.licdn.com/dms/image/C5616AQFcx_1Z17ZNrQ/profile-displaybackgroundimage-shrink_350_1400/0/1646480879251?e=1662595200&v=beta&t=xAYG-pK2N5G2l35oDI7nH7anXH8pSqgSRqDPYsGAplU)
+![MasterHead][(https://media-exp2.licdn.com/dms/image/C5616AQFcx_1Z17ZNrQ/profile-displaybackgroundimage-shrink_350_1400/0/1646480879251?e=1662595200&v=beta&t=xAYG-pK2N5G2l35oDI7nH7anXH8pSqgSRqDPYsGAplU)]
 <h3 align="center">Data Science and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=nishankks&label=Profile%20views&color=0e75b6&style=flat](https://media-exp1.licdn.com/dms/image/C5616AQFcx_1Z17ZNrQ/profile-displaybackgroundimage-shrink_350_1400/0/1646480879251?e=1671062400&v=beta&t=KrfpOi6wcRiuYxyj7cBBW5xPSH60enI9ANglEHhduRU)" alt="nishankks" /> </p>
