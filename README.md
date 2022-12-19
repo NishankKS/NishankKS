@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NishankKS](https://github.com/NishankKS)
 
-- 💬 Ask me about **C/C++,Python**
+- 💬 Ask me about **Java, C++,Python**
 
 - 📫 How to reach me **nishank.satish@gmail.com**
 
