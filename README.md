@@ -1,4 +1,3 @@
-[<img alt="NishankKS Cover Photo" src="Nishank Cover Photo.jpeg" />](https://postimg.cc/FYxNQqBH)
 <h3 align="center">Data Science and Machine Learning Enthusiast</h3>
 
 
