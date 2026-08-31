@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nishank.satish@gmail.com**
 
-- 📄 Connect with me at [https://www.linkedin.com/in/nishank-satish-087304206/](https://www.linkedin.com/in/nishank-satish-087304206/)
+- 📄 Connect with me at [https://www.linkedin.com/in/nishank-satish-087304206/](https://www.linkedin.com/in/nishank-satish)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
