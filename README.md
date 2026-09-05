@@ -12,25 +12,23 @@
 
 <img
   align="right"
-  width="220"
+  width="320"
   src="assets/about.png"
   alt="AI Engineering"
+  hspace="0"
 />
 
-I’m an AI Engineer and Data Science graduate student interested in building
+I’m an AI Engineer and a Data Science graduate student interested in building
 intelligent systems that are not only accurate, but useful, measurable, and
 reliable in the real world.
 
-- 🎓 **M.Sc. Data Science** at **TU Braunschweig, Germany**
+- 🎓 **M.Sc. Data Science at TU Braunschweig, Germany**
 - 🧠 **B.E. Artificial Intelligence & Machine Learning** from Dayananda Sagar College of Engineering, Bengaluru
-- 🤖 Focused on **AI Engineering, Machine Learning, LLMs, RAG & Agentic AI**
-- 🔬 Interested in **LLM evaluation, retrieval systems and intelligent agents**
 - 📄 **3 peer-reviewed publications** across IEEE and Springer venues
-- 🏆 **3× hackathon winner / runner-up**
+- 🏆 **3× hackathon winner**
 - 📍 Based in **Braunschweig, Germany**
 - 🎯 Open to **AI Engineer, ML Engineer and Data Scientist** opportunities
 
-<br clear="right">
 
 ## 🔭 What I Build
 
@@ -39,7 +37,7 @@ reliable in the real world.
 
 <td align="center" width="33%">
 
-### 🤖 Agentic RAG Systems
+### 🤖 LLMs/RAGs and Agentic AI Systems
 
 Multi-hop retrieval, tool calling,<br>
 context expansion, knowledge graphs<br>
@@ -49,7 +47,7 @@ context expansion, knowledge graphs<br>
 
 <td align="center" width="33%">
 
-### 🧠 Deep Learning Models
+### 🧠 Machine Learning and Deep Learning Models
 
 Time-series forecasting, computer vision,<br>
 NLP, remote sensing<br>
@@ -70,37 +68,68 @@ LLM workflows<br>
 </tr>
 </table>
 
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="52" alt="Python">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="52" alt="C++">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="52" alt="PostgreSQL">
+  <img
+    src="https://skillicons.dev/icons?i=python"
+    height="52"
+    alt="Python"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=cpp"
+    height="52"
+    alt="C++"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=postgres"
+    height="52"
+    alt="PostgreSQL"
+  />
 </p>
 
 <p align="center">
   Python &nbsp;•&nbsp; C++ &nbsp;•&nbsp; SQL
 </p>
 
+
 ### 🧠 Machine Learning & Deep Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="52" alt="PyTorch">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="52" alt="TensorFlow">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" height="52" alt="Scikit-learn">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=opencv" height="52" alt="OpenCV">
+  <img
+    src="https://skillicons.dev/icons?i=pytorch"
+    height="52"
+    alt="PyTorch"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=tensorflow"
+    height="52"
+    alt="TensorFlow"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=sklearn"
+    height="52"
+    alt="Scikit-learn"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=opencv"
+    height="52"
+    alt="OpenCV"
+  />
 </p>
 
 <p align="center">
   PyTorch &nbsp;•&nbsp; TensorFlow &nbsp;•&nbsp; Scikit-learn &nbsp;•&nbsp; OpenCV
 </p>
+
 
 ### 🤖 LLMs & Agents
 
@@ -109,19 +138,19 @@ LLM workflows<br>
     src="assets/icons/langchain.png"
     height="52"
     alt="LangChain"
-  >
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="assets/icons/langgraph.png"
     height="52"
     alt="LangGraph"
-  >
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="assets/icons/tavily.png"
     height="52"
     alt="Tavily"
-  >
+  />
 </p>
 
 <p align="center">
@@ -129,29 +158,63 @@ LLM workflows<br>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square">
-  <img src="https://img.shields.io/badge/GraphRAG-6366F1?style=flat-square">
-  <img src="https://img.shields.io/badge/Tool%20Calling-6366F1?style=flat-square">
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-6366F1?style=flat-square">
+  <img
+    src="https://img.shields.io/badge/RAG-6366F1?style=flat-square"
+    alt="RAG"
+  />
+  <img
+    src="https://img.shields.io/badge/GraphRAG-6366F1?style=flat-square"
+    alt="GraphRAG"
+  />
+  <img
+    src="https://img.shields.io/badge/Tool%20Calling-6366F1?style=flat-square"
+    alt="Tool Calling"
+  />
+  <img
+    src="https://img.shields.io/badge/LLM%20Evaluation-6366F1?style=flat-square"
+    alt="LLM Evaluation"
+  />
 </p>
+
 
 ### ⚙️ Engineering & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="52" alt="FastAPI">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="52" alt="Docker">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" height="52" alt="Azure">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="52" alt="Git">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="52" alt="Linux">
+  <img
+    src="https://skillicons.dev/icons?i=fastapi"
+    height="52"
+    alt="FastAPI"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=docker"
+    height="52"
+    alt="Docker"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=azure"
+    height="52"
+    alt="Azure"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=git"
+    height="52"
+    alt="Git"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=linux"
+    height="52"
+    alt="Linux"
+  />
 </p>
 
 <p align="center">
   FastAPI &nbsp;•&nbsp; Docker &nbsp;•&nbsp; Azure &nbsp;•&nbsp; Git &nbsp;•&nbsp; Linux
 </p>
+
 
 ### 🗄️ Vector & Graph Stores
 
@@ -160,46 +223,47 @@ LLM workflows<br>
     src="https://cdn.simpleicons.org/neo4j/5FA8E8"
     height="52"
     alt="Neo4j"
-  >
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  />
+  &nbsp;&nbsp;&nbsp;
   <img
     src="assets/icons/chromadb.png"
     height="52"
     alt="ChromaDB"
-  >
+  />
 </p>
 
 <p align="center">
   Neo4j &nbsp;•&nbsp; ChromaDB
 </p>
 
+
 ## 📌 Featured Projects
 
-<table>
+<table width="100%" border="0">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ KI-PV-Assistent</h3>
+<h3 align="center">⚡ AI-Photovoltaic-PV-Assistant</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 Bilingual German and English solar advisory assistant combining a
-<b>deterministic calculation engine</b> with an LLM language layer.
+**deterministic calculation engine** with an LLM language layer.
 
 Retrieval is grounded in regulatory and tariff documents, with answers
 traced back to their original sources.
 
 <p align="center">
-  <a href="YOUR_KI_PV_ASSISTENT_REPOSITORY_URL">
+  <a href="https://github.com/NishankKS/AI-Photovoltaic-PV-Assistant">
     <img
       src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge&logo=github&logoColor=white"
       alt="View Repository"
-    >
+    />
   </a>
 </p>
 
@@ -210,12 +274,12 @@ traced back to their original sources.
 <h3 align="center">🔍 Proofline</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/LLM-6366F1?style=flat-square">
-  <img src="https://img.shields.io/badge/Audit%20Trails-0EA5E9?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Audit%20Trails-0EA5E9?style=flat-square" />
 </p>
 
-<b>Fraud detection and audit assistant</b> designed around source-traceable
+**Fraud detection and audit assistant** designed around source-traceable
 evidence, allowing reviewers to connect conclusions directly to supporting
 documents.
 
@@ -223,11 +287,11 @@ A deterministic rule core performs detection, while the LLM is confined
 to explanation and summarisation.
 
 <p align="center">
-  <a href="YOUR_PROOFLINE_REPOSITORY_URL">
+  <a href="https://github.com/NishankKS/Proofline">
     <img
       src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge&logo=github&logoColor=white"
       alt="View Repository"
-    >
+    />
   </a>
 </p>
 
@@ -242,24 +306,24 @@ to explanation and summarisation.
 <h3 align="center">💊 PharmAIcist</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-6366F1?style=flat-square">
-  <img src="https://img.shields.io/badge/AlphaFold-0EA5E9?style=flat-square">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/AlphaFold-0EA5E9?style=flat-square" />
 </p>
 
-Three-stage <b>Alzheimer's drug discovery pipeline</b> combining
-bioactivity and toxicity prediction, GRU-based reinforcement-learning
-molecule generation, and AlphaFold-based interaction modelling.
+Three-stage **Alzheimer's drug discovery pipeline** combining bioactivity
+and toxicity prediction, GRU-based reinforcement-learning molecule
+generation, and AlphaFold-based interaction modelling.
 
-Achieved <b>86% prediction accuracy</b>, <b>84% SMILES validity</b>, and
-<b>75% interaction-modelling accuracy</b>.
+Achieved **86% prediction accuracy**, **84% SMILES validity**, and
+**75% interaction-modelling accuracy**.
 
 <p align="center">
-  <a href="YOUR_PHARMAICIST_REPOSITORY_URL">
+  <a href="https://github.com/NishankKS/PharmAIcist">
     <img
       src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge&logo=github&logoColor=white"
       alt="View Repository"
-    >
+    />
   </a>
 </p>
 
@@ -270,12 +334,12 @@ Achieved <b>86% prediction accuracy</b>, <b>84% SMILES validity</b>, and
 <h3 align="center">🛰️ Remote Sensing Annotation</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square">
-  <img src="https://img.shields.io/badge/RemoteCLIP-6366F1?style=flat-square">
-  <img src="https://img.shields.io/badge/Evaluation-0EA5E9?style=flat-square">
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RemoteCLIP-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Evaluation-0EA5E9?style=flat-square" />
 </p>
 
-<b>Human-in-the-loop verification layer over YOLOv8</b> using RemoteCLIP
+**Human-in-the-loop verification layer over YOLOv8** using RemoteCLIP
 embeddings, a logistic-regression gate, and a VLM escalation path for
 low-confidence detections.
 
@@ -283,11 +347,11 @@ The project documented a significant negative result where synthetic
 proposals actively misled real-data evaluation.
 
 <p align="center">
-  <a href="YOUR_REMOTE_SENSING_REPOSITORY_URL">
+  <a href="https://github.com/NishankKS/Object-Detection-and-VLM-Retrieval-for-Remote-Sensing">
     <img
       src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge&logo=github&logoColor=white"
       alt="View Repository"
-    >
+    />
   </a>
 </p>
 
@@ -295,6 +359,7 @@ proposals actively misled real-data evaluation.
 
 </tr>
 </table>
+
 
 ## 💼 Experience
 
@@ -308,12 +373,12 @@ proposals actively misled real-data evaluation.
 - Developed **FastAPI orchestration services** exposing REST APIs for
   downstream applications.
 - Integrated **Azure AI Foundry with web grounding** into LLM workflows.
-- Automated analytical workflows, reducing approximately
-  **6 man-weeks** of manual analyst effort.
+- Automated analytical workflows, reducing approximately **6 man-weeks**
+  of manual analyst effort.
 - Optimised inference workflows through prompt chaining and
   model-selection experiments.
 
-### 🚀 ISRO
+### 🚀 Indian Space Research Organisation
 
 **Artificial Intelligence Intern**  
 📍 Bengaluru, India &nbsp;•&nbsp; `Feb 2024 → May 2024`
@@ -323,6 +388,7 @@ proposals actively misled real-data evaluation.
 - Achieved **MAE ≈ 0.06**.
 - Co-authored and presented the resulting research at
   **IEEE SPACE 2024**.
+
 
 ## 📄 Publications
 
@@ -337,7 +403,7 @@ IEEE Space, Aerospace and Defence Conference (SPACE 2024) ·
   <img
     src="https://img.shields.io/badge/IEEE%20Xplore-21262D?style=for-the-badge&logo=ieee&logoColor=00FF41&labelColor=21262D"
     alt="IEEE Xplore"
-  >
+  />
 </a>
 
 ### 📗 Innovating Drug Design for Alzheimer's Disease via Reinforcement Learning for Enhanced Molecular Generation
@@ -351,7 +417,7 @@ and Computer Vision · **Springer, Scopus indexed**
   <img
     src="https://img.shields.io/badge/Springer-21262D?style=for-the-badge&logo=springer&logoColor=00FF41&labelColor=21262D"
     alt="Springer"
-  >
+  />
 </a>
 
 ### 📙 Optimizing Traffic Management Through Density-Driven Dynamic Traffic Signaling and Emergency Vehicle Prioritization Using Audio and Video
@@ -366,15 +432,17 @@ S. K. Vasudevan, T. S. Murugesh*
   <img
     src="https://img.shields.io/badge/Springer-21262D?style=for-the-badge&logo=springer&logoColor=00FF41&labelColor=21262D"
     alt="Springer"
-  >
+  />
 </a>
+
 
 ## 📬 Get in Touch
 
 <p align="center">
   <i>
-    Interested in AI, intelligent systems, retrieval, LLMs and applied
-    machine learning? I’d love to talk or have a conversation.
+    Interested in AI engineering, intelligent systems, retrieval, LLMs and
+    applied machine learning? I’m interested in all of these and would love
+    to talk or have a conversation.
   </i>
 </p>
 
@@ -382,26 +450,50 @@ S. K. Vasudevan, T. S. Murugesh*
 <tr>
 
 <td align="center" width="25%">
-  <a href="YOUR_PORTFOLIO_URL"><img src="assets/icons/portfolio.png" height="52" alt="Portfolio"></a>
-  <br>
+  <a href="https://www.nishanksatish.com/">
+    <img
+      src="assets/icons/portfolio.png"
+      height="52"
+      alt="Portfolio"
+    />
+  </a>
+  <br />
   <b>Portfolio</b>
 </td>
 
 <td align="center" width="25%">
-  <a href="YOUR_LINKEDIN_URL"><img src="assets/icons/linkedin.png" height="52" alt="LinkedIn"></a>
-  <br>
+  <a href="https://www.linkedin.com/in/nishanksatish/">
+    <img
+      src="assets/icons/linkedin.png"
+      height="52"
+      alt="LinkedIn"
+    />
+  </a>
+  <br />
   <b>LinkedIn</b>
 </td>
 
 <td align="center" width="25%">
-  <a href="mailto:nishank.satish@gmail.com"><img src="assets/icons/gmail.png" height="52" alt="Email"></a>
-  <br>
+  <a href="mailto:nishank.satish@gmail.com">
+    <img
+      src="assets/icons/gmail.png"
+      height="52"
+      alt="Email"
+    />
+  </a>
+  <br />
   <b>Email</b>
 </td>
 
 <td align="center" width="25%">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="assets/icons/github.png" height="52" alt="GitHub"></a>
-  <br>
+  <a href="https://github.com/NishankKS">
+    <img
+      src="assets/icons/github.png"
+      height="52"
+      alt="GitHub"
+    />
+  </a>
+  <br />
   <b>GitHub</b>
 </td>
 
